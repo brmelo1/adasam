@@ -1,6 +1,6 @@
 animais = ['gato', 'coelho', 'macaco']
 
-animais.função1('gato')
+animais.append('gato')
 print(animais)
-print(função2(animais))
+print(len(animais))
 print(animais.função3('coe'))
